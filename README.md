@@ -40,6 +40,4 @@ python3 main.py
 ### 5. Changes to be made from the user
 - make sure you change the ***ProductFlow*** value in ***event identifiers file.***
 
-
-![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJtbWExMXJiaGc1amJteXZ5YW1iOGM2Y3FjOHpyNWFpaWFpcWFiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bu85lsWhBTlWcOMN6/giphy.gif)
-
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJtbWExMXJiaGc1amJteXZ5YW1iOGM2Y3FjOHpyNWFpaWFpcWFiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bu85lsWhBTlWcOMN6/giphy.gif" alt="Coding Animation"> </div> ```
