@@ -18,12 +18,12 @@ This repository helps automate the creation of RIBs (Router-Interactor-Builder) 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kovvuri-Chandra-Kiran-Reddy/RibFilesGenerator.git
+git clone https://github.com/Kovvuri-Chandra-Kiran-Reddy/newRibCreator.git
 ```
 
 ### 2. Navigate to the Cloned Directory
 ```bash
-cd RibFilesGenerator
+cd newRibCreator
 ```
 
 ### 3. Run the RIB Files Generator
@@ -32,7 +32,7 @@ python3 main.py
 ```
 
 ### 4. Enter the Required Information
-- **Package Name** : When prompted, enter the package name for the RIB. If no specific package is required, just press Enter.
+- **Package Name** : When prompted, enter the package name for the RIB. If no specific package is required, just press Enter. ( if package name is empty => all files will be created in the folder path provided in next inputs).
 - **RIB Name** : Enter the RIB name in UpperCamelCase like CancelTrip. This rib name will be used as a prefix for the generated files (e.g., CancelTripInteractor, CancelTripBuilder, etc.).
 - **Platform Path** : Provide the absolute path where the platform-specific RIB files should be generated.
 - **Shared Path** : Provide the absolute path where the shared RIB files should be generated.
@@ -40,4 +40,5 @@ python3 main.py
 ### 5. Changes to be made from the user
 - make sure you change the ***ProductFlow*** value in ***event identifiers file.***
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJtbWExMXJiaGc1amJteXZ5YW1iOGM2Y3FjOHpyNWFpaWFpcWFiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bu85lsWhBTlWcOMN6/giphy.gif" alt="Coding Animation"> </div>
+<br/>
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJtbWExMXJiaGc1amJteXZ5YW1iOGM2Y3FjOHpyNWFpaWFpcWFiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bu85lsWhBTlWcOMN6/giphy.gif" alt="Coding Animation"> </div> ```
