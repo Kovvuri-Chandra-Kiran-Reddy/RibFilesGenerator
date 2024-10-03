@@ -29,5 +29,5 @@ if __name__ == "__main__":
   create_shared_rib_files(RIB_SHARED_PATH, NEW_RIB_PACKAGE, RIB_NAME)
   create_platform_rib_files(RIB_PLATFORM_PATH, RIB_SHARED_PATH, NEW_RIB_PACKAGE, RIB_NAME)
 
-  print("\nHurray!, all required files were created successfully!! 🚀🚀 please change ProductFlow in EventIdentifiers file.")
+  print("\n 🚀🚀 Hurray!, all required files were created successfully 🚀🚀 please change ProductFlow in EventIdentifiers file.")
 
