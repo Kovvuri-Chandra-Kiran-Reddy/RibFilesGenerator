@@ -23,7 +23,7 @@ git clone https://github.com/Kovvuri-Chandra-Kiran-Reddy/newRibCreator.git
 
 ### 2. Navigate to the Cloned Directory
 ```bash
-cd newRibCreator
+cd RibFilesGenerator
 ```
 
 ### 3. Run the RIB Files Generator
