@@ -96,5 +96,3 @@ def create_platform_rib_files(RIB_PLATFORM_PATH, RIB_SHARED_PATH, NEW_RIB_PACKAG
   create_interactorMP_factory_file(RIB_PLATFORM_PATH, NEW_RIB_PACKAGE, RIB_NAME, RIB_SHARED_PATH)
   create_builder_file(RIB_PLATFORM_PATH, NEW_RIB_PACKAGE, RIB_NAME, RIB_SHARED_PATH)
   create_xml_file(RIB_PLATFORM_PATH,NEW_RIB_PACKAGE, RIB_NAME, RIB_SHARED_PATH)
-  
-  print("Hurray!, all required files were created successfully,,  please dont forgot to change flow name in EventIdentifiers sealed class.")
