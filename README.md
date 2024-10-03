@@ -18,7 +18,7 @@ This repository helps automate the creation of RIBs (Router-Interactor-Builder) 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kovvuri-Chandra-Kiran-Reddy/newRibCreator.git
+git clone https://github.com/Kovvuri-Chandra-Kiran-Reddy/RibFilesGenerator.git
 ```
 
 ### 2. Navigate to the Cloned Directory
